@@ -1,0 +1,13 @@
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.csprojAssemblyReference.cache
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.csproj.CoreCompileInputs.cache
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.AssemblyInfoInputs.cache
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.AssemblyInfo.cs
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.exe
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.deps.json
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.runtimeconfig.json
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.runtimeconfig.dev.json
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.dll
+C:\Users\rx480\source\repos\Moment3\Moment3\bin\Debug\netcoreapp3.1\Moment3.pdb
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.dll
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.pdb
+C:\Users\rx480\source\repos\Moment3\Moment3\obj\Debug\netcoreapp3.1\Moment3.genruntimeconfig.cache
